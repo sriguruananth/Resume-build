@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Sri Guru Ananth Gadicherla's Portfolio",
     type: "website",
-    url: "http://ananthgadicherla.com/",
+    url: "https://sriguruananth.github.io/Resume-build",
   },
 };
 

@@ -17,7 +17,7 @@ export default class Main extends Component {
       <BrowserRouter basename="/">
         <Switch>
           <Route
-            path="/"
+            path="/Resume-build"
             exact
             render={(props) =>
               settings.isSplash ? (
