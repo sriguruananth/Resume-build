@@ -7,7 +7,7 @@ class Resume extends Component {
   render(){
         window.open("https://drive.google.com/file/d/1BGVjbKXGBMBuNPL3mfSFi-75Pcp0g1FH/view?usp=drive_link");
         const timer = setTimeout(() => {
-            window.location.href = "/"; // Navigate to the home page
+            window.location.href = "/Resume-build"; // Navigate to the home page
         }, 2000);
       
         // Clean up the timer to prevent memory leaks
