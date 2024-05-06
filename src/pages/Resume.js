@@ -24,5 +24,4 @@ class Resume extends Component {
 
 export default Resume;
 
-  //</div>href="https://docs.google.com/document/d/1DmQtCQioSqB8T1lPjCqao6eFwRh7Ymet/edit#heading=h.gjdgxs">
           
