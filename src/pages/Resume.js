@@ -5,7 +5,7 @@ import TopButton from '../components/topButton/TopButton';
 
 class Resume extends Component {
   render(){
-        window.open("https://drive.google.com/file/d/1pMCXoyIK0zJJFtI5aNs1qLdbKUX3n2_T/view?usp=sharing");
+        window.open("https://drive.google.com/file/d/1pMCXoyIK0zJJFtI5aNs1qLdbKUX3n2_T/");
         const timer = setTimeout(() => {
             window.location.href = "/Resume-build"; // Navigate to the home page
         }, 2000);
